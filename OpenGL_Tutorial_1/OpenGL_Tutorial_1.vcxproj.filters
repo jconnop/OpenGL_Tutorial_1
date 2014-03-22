@@ -24,4 +24,15 @@
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
+  <ItemGroup>
+    <None Include="test_vs.glsl">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="test_fs.glsl">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="test_fs2.glsl">
+      <Filter>Resource Files</Filter>
+    </None>
+  </ItemGroup>
 </Project>
